@@ -17,8 +17,11 @@ Author | Elijah Shadbolt
 Date | 30/04/2018
 
 Bachelor of Software Engineering
+
 Media Design School
+
 Auckland
+
 New Zealand
 
 (c) 2018 Media Design School
