@@ -2,6 +2,8 @@
 
 A simple game of Asteroids. Created in GameMaker Studio 2.
 
+![Asteroids Screenshot](https://github.com/Cresspresso/Asteroids/blob/master/Asteroids.png)
+
 ## Installation
 
 1. [Download Asteroids.zip](https://github.com/Cresspresso/Asteroids/releases/download/1.0/Asteroids.zip)
